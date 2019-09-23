@@ -2,7 +2,7 @@
 
 Hello, I am a 1A CS Student at Waterloo.
 
-uwu :3
+uwu :3 Hi John
 
 Courses in this semester:
 1. CS135
